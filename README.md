@@ -15,7 +15,6 @@ https://xd.adobe.com/view/f42a0a14-1093-4502-bfb8-a91453a9d5a7-a179/
 
 #### Prototype Set 2:
 https://xd.adobe.com/view/42c0b5e1-3482-44a2-9893-d1cd26e731f4-1793/?fullscreen
-#### Accessibility Test 
 
 #### Prototype Set 3:
 ![Wireframes](https://user-images.githubusercontent.com/72778213/100160207-f8752980-2e63-11eb-9886-3b02cbe87df3.jpg)
