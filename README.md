@@ -21,11 +21,13 @@ https://xd.adobe.com/view/42c0b5e1-3482-44a2-9893-d1cd26e731f4-1793/?fullscreen
 
 #### Accessibility Tests:
 ![accessibility](https://user-images.githubusercontent.com/72778213/100160462-7c2f1600-2e64-11eb-9fe0-3c50ae87bf75.jpg)
+(Not sure why the screenshot is pixelated, but my scores are both 76 for each prototype. There is definitely room for improvement, especially in the color-contrast area. 
 
 #### Impression Test:
+https://photos.app.goo.gl/BjnNpgFWJcryeoep6
 
 #### Summary of Impression Test:
-Overall, the first impressions that I recieved were what I was expecting. My colors can be tweaked a little bit, as they're either too bright or too muted. The wireframes seem easy to follow so far, my participant had little difficulty. 
+Overall, the first impressions that I recieved were what I was expecting. My colors can be tweaked a little bit, as they're either too bright or too muted. The wireframes seem easy to follow so far, my participant had a little bit of difficulty, but I think it was due to her being caught off guard with the whole testing experience in general. I found myself having to be extra patient, but her hesitation to answer certain questions indicated to me where I need to improve. 
 
 #### Reflection
 So far, after hearing what my roommate had to say about my first round of high-fidelity prototypes along with examining the accessibility score, I definitely have room for improvement. I did not expect this to be an easy one-and-done task, and I look forward to making more changes based on what the reviewers say on the 24th. Overall, I think my color choice is the biggest focus, but I am pretty confident in the layout that I chose as my favorite. It seems to make the most sense to the eye what is important to click on the screen, verses an overload of unneccessary information. 
